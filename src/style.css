@@ -6,3 +6,9 @@ body {
 h2 {
   color: aquamarine;
 }
+
+footer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
